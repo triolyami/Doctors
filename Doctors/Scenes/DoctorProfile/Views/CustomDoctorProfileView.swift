@@ -35,7 +35,7 @@ final class CustomDoctorProfileView: BaseView {
     
     private enum Texts {
         static let navBarTitile = "Profile"
-        static let makeAnAppointmentButtonTitile = "Make an appointmentButton"
+        static let makeAnAppointmentButtonTitile = "Make an appointment"
     }
     
     private let navBar = NavigationBarWithBackButtonView(title: Texts.navBarTitile)
